@@ -1,0 +1,4 @@
+streamlit
+arcgis
+google-generativeai
+pillow
